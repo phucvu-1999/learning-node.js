@@ -1,0 +1,11 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phucvu-1999/learning-node.js.git",
+  "author": "Tien Phuc <leesinvn123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
